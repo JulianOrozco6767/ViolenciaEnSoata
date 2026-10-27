@@ -1,0 +1,6 @@
+CARPETA PARA LAS 4 IMÁGENES
+
+Coloca aquí las cuatro fotografías que quieras mostrar en la diapositiva “El territorio en imágenes”.
+La diapositiva ya tiene cuatro espacios responsivos reservados. Para que aparezcan las fotografías, reemplaza cada recuadro del HTML por una etiqueta <img> que use la ruta relativa de la imagen, por ejemplo: Imagenes/soata-1.jpg.
+
+Se recomienda usar nombres simples sin tildes ni espacios.
